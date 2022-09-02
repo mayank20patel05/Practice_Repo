@@ -3,13 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="17e7e771-a854-4210-ad0c-2d6aa6a51f49" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Assignment/Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/TrappedWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methods/mayank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPractice/src/A/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ConstructorPractice/src/B/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExceptionHandeling/ExceptionHandeling.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FunctionalProgramming/FunctionalProgramming.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../FunctionalProgramming/src/Math.java" afterDir="false" />
@@ -236,7 +232,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

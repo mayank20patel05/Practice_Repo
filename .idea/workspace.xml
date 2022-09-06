@@ -3,7 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="17e7e771-a854-4210-ad0c-2d6aa6a51f49" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Assignment/Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/RTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo/Triangle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ConstructorPractice/src/A/Car.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ConstructorPractice/src/B/Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ExceptionHandeling/ExceptionHandeling.iml" afterDir="false" />
@@ -209,6 +213,10 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Calculator/demo/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Calculator/demo/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClassPractice2" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassPractice2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_Practice.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practicew3resource/src/com/company/arraylist/ArrayListExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practicew3resource/src/com/company/arraylist/ArrayListExercise.java" afterDir="false" />
@@ -259,13 +267,26 @@
       <command value="pivotArray" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.aug13">
+  <component name="RunManager" selected="Application.Diamond">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.Calculator" />
       <module name="Calculator" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="assignemnt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Diamond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Diamond" />
+      <module name="Calculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,6 +322,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Diamond" />
         <item itemvalue="Application.aug13" />
         <item itemvalue="Application.TrappedWater" />
         <item itemvalue="Application.Calculator" />

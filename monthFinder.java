@@ -16,6 +16,7 @@ public class monthFinder {
                 break;
             case 2:
                 System.out.println("This month have 28 days");
+                System.out.println("It might be febuarary");
                 break;
             default:
                 System.out.println("Wrong entry");

@@ -208,6 +208,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/Diamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/Diamond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClassPractice2" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassPractice2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_Practice.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practicew3resource/src/com/company/arraylist/ArrayListExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practicew3resource/src/com/company/arraylist/ArrayListExercise.java" afterDir="false" />
@@ -237,8 +238,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CapG36W30IpNx1vYlw93OBvEp4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -246,6 +250,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Calculator.iml" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
@@ -258,7 +263,7 @@
       <command value="pivotArray" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Diamond">
+  <component name="RunManager" selected="Application.Calculator">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="demo.Calculator" />
       <module name="Calculator" />

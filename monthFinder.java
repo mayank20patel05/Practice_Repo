@@ -13,6 +13,7 @@ public class monthFinder {
                 break;
             case 4,6,9,11:
                 System.out.println("This month have 30 days");
+                System.out.println("Printing for test");
                 break;
             case 2:
                 System.out.println("This month have 28 days");

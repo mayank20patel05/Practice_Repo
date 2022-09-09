@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="17e7e771-a854-4210-ad0c-2d6aa6a51f49" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Assignment/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/monthFinder.java" afterDir="false" />

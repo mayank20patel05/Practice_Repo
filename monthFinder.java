@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class monthFinder {
 
@@ -18,7 +18,11 @@ public class monthFinder {
                 System.out.println("This month have 28 days");
                 break;
             default:
-                System.out.print("pencho 12 months ee hunde saal vich");
+                System.out.print("pencho 12 months ee hunde saal vich ena v ne pta bwdbfdgw tenu");
         }
     }
+
+
+
 }
+

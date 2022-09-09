@@ -208,7 +208,7 @@
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ClassPractice2" beforeDir="false" afterPath="$PROJECT_DIR$/../ClassPractice2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_Practice.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Practicew3resource/src/com/company/arraylist/ArrayListExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practicew3resource/src/com/company/arraylist/ArrayListExercise.java" afterDir="false" />
@@ -232,7 +232,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

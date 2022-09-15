@@ -20,22 +20,7 @@ public class Calculator {
         System.out.println("total marks are: " + totalMarks);
         System.out.println("Average of all marks is: " + (totalMarks/marks.length));
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println("1 + 1 = 2");
     }
 
     public static double sum(double a, double b) {
